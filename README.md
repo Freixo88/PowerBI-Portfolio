@@ -1,5 +1,8 @@
-Welcome to my Power BI portfolio! Here, you'll find a collection of projects that showcase my growing expertise in data visualization, analysis, and business intelligence using Power BI. Through hands-on experience and continuous learning, I have developed skills in data modeling, DAX calculations, and interactive dashboard design.
+# **Power BI Learning Journey & Projects**
 
-My goal is to transform raw data into meaningful insights that drive informed decision-making. This portfolio reflects my commitment to mastering Power BI and applying it to solve real-world problems across different datasets and industries.
+Welcome to my Power BI portfolio! This repository contains projects that demonstrate my skills and growth in data visualization, data analysis, and business intelligence using Power BI.
 
-Feel free to explore my projects and connect if you'd like to discuss data, visualization, or collaboration opportunities!
+Throughout my learning journey, I have focused on data modeling, creating interactive dashboards, and mastering DAX formulas to extract meaningful insights from data. These projects showcase practical applications of Power BI to solve real-world problems and support data-driven decision making.
+
+Feel free to explore the projects and reach out if you want to connect or discuss data and visualization!
+
