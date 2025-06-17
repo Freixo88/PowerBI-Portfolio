@@ -18,6 +18,7 @@ Feel free to explore the projects and connect with me for collaboration or discu
 ---
 
 ## About Me
+![55704729_10219030758269348_6830254682301005824_n](https://github.com/user-attachments/assets/7beee03d-ed36-4021-a66c-16f872403eee)
 
 I am a passionate data enthusiast currently developing my skills in Power BI and data analysis. I enjoy creating clear, actionable reports and dashboards to help make sense of complex data. My goal is to keep learning and use data to solve real-world challenges.
 
