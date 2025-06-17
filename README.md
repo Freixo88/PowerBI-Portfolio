@@ -8,7 +8,8 @@ Feel free to explore the projects and reach out if you want to connect or discus
 
 # **About me**
 
-![55704729_10219030758269348_6830254682301005824_n](https://github.com/user-attachments/assets/b00f335e-db49-4497-a5e9-a199228a16e3)
+![55704729_10219030758269348_6830254682301005824_n](https://github.com/user-attachments/assets/c2428cb9-fe48-4534-8d68-3a009e98474f)
+
 
 *Bruno Freixo*
 
